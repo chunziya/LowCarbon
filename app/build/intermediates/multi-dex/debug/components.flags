@@ -1,0 +1,101 @@
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/libs/gson-2.8.2.jar(**.class)
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/libs/AMap3DMap_5.4.0_AMapSearch_5.3.1_AMapLocation_3.6.1_20171012.jar(**.class)
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/libs/MobCommons-2017.0607.1736.jar(**.class)
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/libs/MobTools-2017.0607.1736.jar(**.class)
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/libs/open_sdk_r5886_lite.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/SMSSDK-3.0.0.aar/cc4d4b6a04360c814113a27361fa52ea/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/SMSSDKGUI-3.0.0.aar/3aaaa182acc66b2c27cca9d5239745c4/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.5.5.aar/55b959ce840fd9daa649839d450fc123/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/FilePicker-1.5.5.aar/02ce7c496c3b1e17c8bad8067cdafb2d/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/ColorPicker-1.5.5.aar/cfc10975cfd80071f9f5718fe117cc60/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/e7191781be08426a3ba2d7f6175b5465/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/circleprogressbar-1.1.1.aar/7add3121d6ad822c628f43393c02fc9a/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/blurredview-0.8.1.aar/0e557ba2311bc85991bf304d84306ce9/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/commons-0.9.1.0.aar/2e658f388accb3094c7c161e6d97287f/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/cc8cfabf0601192eb5bc9375d2490c04/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/materialviewpager-1.2.3.aar/12e2db14275f9321bd9128b84f52c852/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/86420ca01352957ef01a64a87d9e9689/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d9b3b484edad65b66c78fe33717f58c0/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bc8199a971a95b5ce9cbf8e4d1da52b9/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5a94dbbd5746c81d950b31b2c2e0c028/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/afe4b626bf4e3d684c0d3bed7b02c63c/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/e940703f0112ec925d09de92c1cc3a36/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/ba139d9159049e40503b92576da81166/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-v13-25.0.0.aar/25de9e717bcf925376a99295c3eeb490/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-v13-25.0.0.aar/25de9e717bcf925376a99295c3eeb490/jars/libs/internal_impl-25.0.0.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/f9161e1dd719a0bc839462d1e8e0a70d/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a9c4f5a8a0af09a8ecb1de97e5d06820/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/71e3663e3af1926e52563b429b41c2fb/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/dialogplus-1.11.aar/88e9c0f612917da7b9d3a564b2a51e6e/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/Android-PickerView-3.2.7.aar/32abf7d5f8109eb5ba7f4de4ab3ed146/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.6/e842df4d47bcdc24cc8c8221cd5f2e3e743f2709/Java-WebSocket-1.3.6.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.0.3.aar/8e955473c542532c88c9c3908fa6fe39/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/SmartRefreshHeader-1.0.3.aar/f2cab7036084b0adb8ac6c68c69542c7/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.30.aar/3505c253b18563cf3d1c17bb6f275713/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.10.1.aar/1b29044d0551c3d42cfd0a943d17c57c/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.3.0.aar/c077f15b7f4296b51a3f9d91d8fa6ffb/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/switch-button-0.0.3.aar/c1ed79c1776e75c05994565a951dbed2/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7d945b46a965a06452138bbb79a0cff4/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/logger-2.2.0.aar/28eb9134fdd4791840cb5440fc0f6d6a/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/f86a867e7e05df47fd4b95fdc4f6614b/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/Common-1.5.5.aar/640be1dae781c7a585950ce2575e7121/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/e248f2af76f5928a721e139d3ea6ae02/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/41d6e7f1355b0e7f7d31da80b05da003/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/10b64cc2bffdcf436da375363bed708f/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3808cd6c7c056adfd3221908176d6aaa/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6b3476018777b2d14d89403289a8c090/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/76f56e0bf1f5d7eb90ede6ce61c68f0a/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e5b50c32e9ee1e70559b7b9c242227d0/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar(**.class)
+-injars /Users/abc/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.6.1/2f82d433b9dae134a9b32039a6b5b38abe8a1c46/disklrucache-4.6.1.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.6.1/278bafb890704b66a1d6a8a98d0790f940aa5a22/annotations-4.6.1.jar(**.class)
+-injars /Users/abc/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/08bfb433100b312c9db3291753b7a341/jars/classes.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar(**.class)
+-injars /Users/abc/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/abc/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:51
+-keep class com.example.sam.lowcarbon.MyApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

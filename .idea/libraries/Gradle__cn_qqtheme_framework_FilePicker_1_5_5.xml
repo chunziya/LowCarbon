@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.qqtheme.framework:FilePicker-1.5.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FilePicker-1.5.5.aar/b57f05f64815c7c68676e96c584b0ba2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FilePicker-1.5.5.aar/b57f05f64815c7c68676e96c584b0ba2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.qqtheme.framework/FilePicker/1.5.5/de765d21b16f8b3ffd1b16833459a540ea6b69da/FilePicker-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

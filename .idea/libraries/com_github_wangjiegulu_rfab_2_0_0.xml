@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.wangjiegulu:rfab-2.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rfab-2.0.0.aar/589e1061092b27d59a3aa5698a17f553/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rfab-2.0.0.aar/589e1061092b27d59a3aa5698a17f553/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wangjiegulu/rfab/2.0.0/e9e4fcc73c49804a359eebe7bd6808e435e038f5/rfab-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

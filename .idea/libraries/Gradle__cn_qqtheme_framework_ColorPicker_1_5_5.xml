@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.qqtheme.framework:ColorPicker-1.5.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ColorPicker-1.5.5.aar/9803dfc5025317d6306669cf69c62b2f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ColorPicker-1.5.5.aar/9803dfc5025317d6306669cf69c62b2f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.qqtheme.framework/ColorPicker/1.5.5/a285447e5b077d5bbb33fd50fbe645208c27e11e/ColorPicker-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

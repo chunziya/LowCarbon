@@ -1,0 +1,3 @@
+# Referenced at /Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:51
+-keep class com.example.sam.lowcarbon.MyApplication { <init>(...); }
+

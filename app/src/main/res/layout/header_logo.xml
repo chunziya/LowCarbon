@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="80dp"
+    android:layout_height="@dimen/materialviewpager_logoHeight"
+    android:layout_centerHorizontal="true">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:fitsSystemWindows="true"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/ic_friend" />
+</FrameLayout>

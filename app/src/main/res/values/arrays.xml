@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="backgrounds">
+        <item>@drawable/picture_4</item>
+        <item>@drawable/picture_3</item>
+        <item>@drawable/picture_5</item>
+        <item>@drawable/picture_6</item>
+    </integer-array>
+    <integer-array name="weatherimage">
+        <item>@drawable/ic_weather_1</item>
+        <item>@drawable/ic_weather_2</item>
+        <item>@drawable/ic_weather_3</item>
+        <item>@drawable/ic_weather_4</item>
+        <item>@drawable/ic_weather_5</item>
+        <item>@drawable/ic_weather_6</item>
+        <item>@drawable/ic_weather_7</item>
+        <item>@drawable/ic_weather_8</item>
+        <item>@drawable/ic_weather_9</item>
+        <item>@drawable/ic_weather_10</item>
+        <item>@drawable/ic_weather_11</item>
+        <item>@drawable/ic_weather_12</item>
+        <item>@drawable/ic_weather_13</item>
+        <item>@drawable/ic_weather_14</item>
+        <item>@drawable/ic_weather_15</item>
+        <item>@drawable/ic_weather_16</item>
+        <item>@drawable/ic_weather_17</item>
+        <item>@drawable/ic_weather_18</item>
+        <item>@drawable/ic_weather_19</item>
+        <item>@drawable/ic_weather_20</item>
+        <item>@drawable/ic_weather_21</item>
+        <item>@drawable/ic_weather_22</item>
+        <item>@drawable/ic_weather_23</item>
+        <item>@drawable/ic_weather_24</item>
+        <item>@drawable/ic_weather_25</item>
+        <item>@drawable/ic_weather_26</item>
+        <item>@drawable/ic_weather_27</item>
+        <item>@drawable/ic_weather_28</item>
+        <item>@drawable/ic_weather_29</item>
+        <item>@drawable/ic_weather_30</item>
+        <item>@drawable/ic_weather_31</item>
+        <item>@drawable/ic_weather_32</item>
+        <item>@drawable/ic_weather_33</item>
+        <item>@drawable/ic_weather_34</item>
+        <item>@drawable/ic_weather_35</item>
+        <item>@drawable/ic_weather_36</item>
+        <item>@drawable/ic_weather_37</item>
+    </integer-array>
+    <string-array name="weather">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨并伴有冰雹</item>
+        <item>雨夹雪</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>冻雨</item>
+        <item>沙尘暴</item>
+        <item>小雨-中雨</item>
+        <item>中雨-大雨</item>
+        <item>大雨-暴雨</item>
+        <item>暴雨-大暴雨</item>
+        <item>大暴雨-特大暴雨</item>
+        <item>小雪-中雪</item>
+        <item>中雪-大雪</item>
+        <item>大雪-暴雪</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>飑</item>
+        <item>龙卷风</item>
+        <item>弱高吹雪</item>
+        <item>轻霾</item>
+        <item>霾</item>
+    </string-array>
+    
+    <string-array name="gender">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+</resources>
