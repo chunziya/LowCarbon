@@ -1,48 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/czc/AndroidStudioProjects/LowCarbon/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/abc/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e5b50c32e9ee1e70559b7b9c242227d0/res/values-v21/values-v21.xml",
+                    "source": "/Users/czc/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/4310fbb665932caecbb1a9e5b73c8820/res/values-v21/values-v21.xml",
                     "from": {
-                        "startLines": "6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "354,470,596,722,850,1022",
-                        "endLines": "6,7,8,9,12,17",
-                        "endColumns": "115,125,125,127,12,12",
-                        "endOffsets": "465,591,717,845,1017,1355"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "248"
                     },
                     "to": {
-                        "startLines": "309,310,311,312,321,324",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "22435,22551,22677,22803,23447,23619",
-                        "endLines": "309,310,311,312,323,328",
-                        "endColumns": "115,125,125,127,12,12",
-                        "endOffsets": "22546,22672,22798,22926,23614,23952"
+                        "startLines": "329",
+                        "startColumns": "4",
+                        "startOffsets": "23957",
+                        "endLines": "331",
+                        "endColumns": "12",
+                        "endOffsets": "24150"
                     }
                 },
                 {
-                    "source": "/Users/abc/AndroidStudioProjects/LowCarbon/app/src/main/res/values-v21/styles.xml",
-                    "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "902",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1371"
-                    },
-                    "to": {
-                        "startLines": "247",
-                        "startColumns": "4",
-                        "startOffsets": "18426",
-                        "endLines": "254",
-                        "endColumns": "12",
-                        "endOffsets": "18895"
-                    }
-                },
-                {
-                    "source": "/Users/abc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d9b3b484edad65b66c78fe33717f58c0/res/values-v21/values-v21.xml",
+                    "source": "/Users/czc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/c1cbb265217abc9cba82d69868a86552/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,7 +42,26 @@
                     }
                 },
                 {
-                    "source": "/Users/abc/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/cc8cfabf0601192eb5bc9375d2490c04/res/values-v21/values-v21.xml",
+                    "source": "/Users/czc/AndroidStudioProjects/LowCarbon/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "902",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1371"
+                    },
+                    "to": {
+                        "startLines": "247",
+                        "startColumns": "4",
+                        "startOffsets": "18426",
+                        "endLines": "254",
+                        "endColumns": "12",
+                        "endOffsets": "18895"
+                    }
+                },
+                {
+                    "source": "/Users/czc/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/c5d5948757f2507f74ed45eb00934095/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,13",
                         "startColumns": "4,4",
@@ -80,22 +80,22 @@
                     }
                 },
                 {
-                    "source": "/Users/abc/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/e7191781be08426a3ba2d7f6175b5465/res/values-v21/values-v21.xml",
+                    "source": "/Users/czc/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f7ee51b1d5484d120837f3336e012176/res/values-v21/values-v21.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "248"
+                        "startLines": "6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "354,470,596,722,850,1022",
+                        "endLines": "6,7,8,9,12,17",
+                        "endColumns": "115,125,125,127,12,12",
+                        "endOffsets": "465,591,717,845,1017,1355"
                     },
                     "to": {
-                        "startLines": "329",
-                        "startColumns": "4",
-                        "startOffsets": "23957",
-                        "endLines": "331",
-                        "endColumns": "12",
-                        "endOffsets": "24150"
+                        "startLines": "309,310,311,312,321,324",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "22435,22551,22677,22803,23447,23619",
+                        "endLines": "309,310,311,312,323,328",
+                        "endColumns": "115,125,125,127,12,12",
+                        "endOffsets": "22546,22672,22798,22926,23614,23952"
                     }
                 }
             ]

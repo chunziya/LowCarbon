@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: cn.qqtheme.framework:WheelPicker-1.5.5">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.5.5.aar/0b72955996b5550ae875f854038f6e7b/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.5.5.aar/0b72955996b5550ae875f854038f6e7b/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.5.5.aar/54315f9def5965f6f610e1aee195388d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.5.5.aar/54315f9def5965f6f610e1aee195388d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

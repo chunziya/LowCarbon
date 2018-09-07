@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.afollestad.material-dialogs:core-0.9.1.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/e5f7b18cec58d03d7f1a87e6047a08d6/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/e5f7b18cec58d03d7f1a87e6047a08d6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/c5d5948757f2507f74ed45eb00934095/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-0.9.1.0.aar/c5d5948757f2507f74ed45eb00934095/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

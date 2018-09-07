@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abc/AndroidStudioProjects/LowCarbon/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/Users/czc/AndroidStudioProjects/LowCarbon/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/Users/abc/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/f86a867e7e05df47fd4b95fdc4f6614b/res/values-zh/values-zh.xml",
+                    "source": "/Users/czc/.gradle/caches/transforms-1/files-1.1/permission-2.0.0-rc4.aar/2623fa2d3b10912188865c26827c79fb/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
