@@ -13,6 +13,8 @@
 ![运动界面（夜晚模式）](https://github.com/chunziya/LowCarbon/blob/master/Examples/8.png "运动界面（夜晚）")
 ![运动路径监测](https://github.com/chunziya/LowCarbon/blob/master/Examples/7.png "运动路径监测")
 ## FriendActivity
+![好友界面](https://github.com/chunziya/LowCarbon/blob/master/Examples/10.png "好友界面")
+
 ![好友界面](https://github.com/chunziya/LowCarbon/blob/master/Examples/11.png "好友界面")
 ![删除好友界面](https://github.com/chunziya/LowCarbon/blob/master/Examples/12.png "删除好友界面")
 ## SearchActivity
